@@ -1,5 +1,5 @@
 # Final_CTF_PT_Report
-Full PT report - 
+Full PT report - https://github.com/shenhav123/Final_CTF_PT_Report/blob/main/Final_CTF_PT_report.pdf
 
 As part of the final project requirements for the Cyber Security course at ECOM College, our team — three members of the Cyber Security Team, myself included — conducted a comprehensive Penetration Test covering both the infrastructure and the web application of the college, using a Black-Box testing approach, on August 4th, 2026, in Rishon LeZion, Israel. The assessment was carried out as part of a final CTF (Capture The Flag) task, in which the team was assigned the following objectives: (1) read the flag file located at /flag.txt, and (2) achieve privilege escalation and gain full control over the target system.
 
